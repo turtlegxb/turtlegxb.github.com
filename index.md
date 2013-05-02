@@ -11,12 +11,14 @@ title: Welcome to the Turtle's!
     He bought her a cup of ice cream on sale
     Now she's your mom
 
+    Hmm... True story ^_^
+
 ###Okay, so what's this website for?
     
     I like coding and technology and I need to prove it.
     See if I can do something like designing?
     Taking notes to remember valuable information.
-    Learning more and more to making your mom's like easier.
+    Learning more and more to making your mom's life easier.
     
 ###Here's the latest post list:
 <ul class="posts">
