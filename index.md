@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome buddy!
+title: Welcome to the Turtle's!
 ---
 {% include JB/setup %}
 
