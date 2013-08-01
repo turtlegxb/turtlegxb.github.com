@@ -1,3 +1,12 @@
+---
+
+layout: post
+title: "多次重定向HTTP-Refer的变化"
+category: ReadingNote
+tags: [W3C, HTTP]
+
+---
+
 先初步了解下URL重定向，Http Referer两个概念
 
 >URL重定向（URL redirection，或称网址重定向或网域名称转址），是指当使用者浏览某个网址时，将他导向到另一个网址的技术。
