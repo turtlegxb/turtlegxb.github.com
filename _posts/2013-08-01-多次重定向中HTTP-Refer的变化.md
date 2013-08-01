@@ -2,7 +2,7 @@
 
 layout: post
 title: "多次重定向HTTP-Refer的变化"
-category: ReadingNote
+category: Technology
 tags: [W3C, HTTP]
 
 ---
