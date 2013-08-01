@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mpage
 title: Welcome to the Turtle's!
 ---
 {% include JB/setup %}
