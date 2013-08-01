@@ -62,8 +62,6 @@ tags: [W3C, HTTP]
 
 因此不能过分的依赖referer，如要正确的获得这个referer，可以在页面A中把referer作为参数，从地址栏中传递到下个面。如shopping.php
 
-```
     $url = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];    
     $url = base64_encode($url);
     header ('Location: http://me1.taobao.com/?referer='.$url);
-```
