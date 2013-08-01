@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "多次重定向HTTP-Refer的变化"
+title: "多次重定向中HTTP-Refer的变化"
 category: Technology
 tags: [W3C, HTTP]
 
